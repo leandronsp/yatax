@@ -8,7 +8,7 @@ loop do
 
   request = client.gets
 
-  client.puts("HTTP/1.1 200\r\n\r\n\r\nHello!")
+  client.puts("HTTP/2 200\r\n\r\n\r\nHello!")
 
   client.close
 end
