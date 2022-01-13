@@ -5,6 +5,10 @@ Yet another TODO application eXtreme edition
 O objetivo principal do Yatax é, ao longo do desenvolvimento da aplicação, que deve ser a princípio uma simples TODO app em Ruby, mostrar tópicos e conceitos elementares da Web. 
 
 ## Tópicos
-Cada tópico vai ser um Pull Request, onde terá explicação dos conceitos juntamente com o código feito no PR. Lista de tópicos (PR's):
+Os tópicos são explicados em páginas no [Blog](https://yatax.leandronsp.com/), onde é registrada toda a evolução do desenvolvimento, explicações de conceitos elementares e referências para os Pull Requests deste repositório.
 
-1. [Comunicação TCP/IP](https://github.com/leandronsp/yatax/pull/1)
+1. [Docker 101](https://yatax.leandronsp.com/docker-101)
+2. [Comunicação TCP/IP](https://yatax.leandronsp.com/comunicacao-tcp-ip)
+3. [Protocolo HTTP](https://yatax.leandronsp.com/protocolo-http)
+
+Acompanhe o desenvolvimento em https://yatax.leandronsp.com
