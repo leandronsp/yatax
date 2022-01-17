@@ -10,6 +10,6 @@ Os tópicos são explicados em páginas no [Blog](https://yatax.leandronsp.com/)
 1. [Docker 101](https://yatax.leandronsp.com/docker-101)
 2. [Comunicação TCP/IP](https://yatax.leandronsp.com/comunicacao-tcp-ip)
 3. [Protocolo HTTP](https://yatax.leandronsp.com/protocolo-http)
-4. [HTTP Cookies](https://yatax.leandronsp.com/http-cookies)
+4. [HTTP Cookies](https://yatax.leandronsp.com/http-headers-and-cookies)
 
 Acompanhe o desenvolvimento em https://yatax.leandronsp.com
